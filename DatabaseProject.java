@@ -108,9 +108,7 @@ public class DatabaseProject {
                             e.printStackTrace();
                         }
                     }        
-                    break;
-
-                    //do case 4 and 5, thanks    
+                    break;  
                     case 4: {
                         userIn.nextLine();
                         System.out.print("Enter studio's name: ");
